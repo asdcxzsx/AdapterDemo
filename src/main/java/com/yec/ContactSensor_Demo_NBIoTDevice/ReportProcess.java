@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
 /**
- * 设备对云平台说的话进行的处理。
+    * 设备对云平台说的话进行的处理。......
  * @author lemon
  *
  */
